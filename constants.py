@@ -1,0 +1,2 @@
+CITIES_JSON_LOCATION = "./cities.json"
+RADIUS_OF_EARTH: int = 6371
