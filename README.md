@@ -1,4 +1,4 @@
-# ShortestPath_Escape
+# ShortestPath
 
 The following repo is created to solve the shortest path problem.
 Problem statement: Write a program that creates a travel plan where you visit every continent from a given origin city and back using the shortest distance traveled. 
